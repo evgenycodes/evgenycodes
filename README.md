@@ -21,28 +21,27 @@
 </p>
 
 ## 🚀 Codewars Stats  
-
-![Codewars](https://github.r2v.ch/codewars?user=evgenycodes&stroke=%23DD0000)  
+<p>
+  <img src="https://github.r2v.ch/codewars?user=evgenycodes&stroke=%23DD0000" width="500" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evgenycodes&show_icons=true&theme=radical" height="150" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=evgenycodes&show_icons=true&theme=radical" width="500" />
 </p>
 
----
 
-## 📬 Connect with me  
+## 🤝 Connect with me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/evgeny-shamov" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://t.me/evgenys1" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="mailto:evgenyshamov.jobs@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/evgeny-shamov" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
+  <a href="https://t.me/evgenys1"  target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
+</a>  
+  <a href="mailto:evgenyshamov.jobs@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
 </p>
-
-
----
 
 ---
 <p align="center">✨ Let's build something amazing together! ✨</p>
