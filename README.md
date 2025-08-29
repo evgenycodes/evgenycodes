@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi I'm Evgeny!  
 
-<!--
-**evgenycodes/evgenycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Evgeny Shamov**, a **Full Stack Developer** specializing in the **PERN stack (PostgreSQL | Express | React | Node.js)**.  
 
-Here are some ideas to get you started:
+🌍 Open to exciting projects and collaborations  
+💡 Passionate about writing clean code, building scalable APIs, and creating intuitive user interfaces  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-339933?logo=websockets&logoColor=white)
+![Sessions](https://img.shields.io/badge/Sessions-6f42c1?logo=none&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
+
+### Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+
+## 🚀 Featured Projects  
+
+[![codewars](https://www.codewars.com/users/evgenycodes/badges/large)](https://www.codewars.com//users/evgenycodes) 
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evgenycodes&show_icons=true&theme=radical)  
+---
+
+## 📬 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgeny-shamov/)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/evgenys1)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:evgenyshamov.jobs@gmail.com) 
