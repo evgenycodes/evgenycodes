@@ -1,9 +1,11 @@
-# 👋 Hi I'm Evgeny!  
+# 👋 Hey there, I'm Evgeny!
 
-I'm **Evgeny Shamov**, a **Full Stack Developer** specializing in the **PERN stack (PostgreSQL | Express | React | Node.js)**.  
+🚀 **Full Stack Developer** | PERN Stack (PostgreSQL • Express • React • Node.js)  
+💻 Turning ideas into scalable web applications  
+🎨 Passionate about clean code, elegant UI & seamless UX  
+☕ Fueled by coffee, curiosity, and a love for coding  
 
-🌍 Open to exciting projects and collaborations  
-💡 Passionate about writing clean code, building scalable APIs, and creating intuitive user interfaces  
+🌍 Open to collaborations, startups & exciting projects  
 
 ---
 
@@ -49,3 +51,7 @@ I'm **Evgeny Shamov**, a **Full Stack Developer** specializing in the **PERN sta
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgeny-shamov/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/evgenys1)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:evgenyshamov.jobs@gmail.com) 
+
+---
+
+✨ Let's build something amazing together!
