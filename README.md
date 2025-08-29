@@ -1,6 +1,7 @@
-# 👋 Hey there, I'm Evgeny!
+<h1 align="center">👋 Hey there, I'm Evgeny!</h1>  
+<h3 align="center">🚀 Full Stack Developer | PERN Stack (PostgreSQL • Express • React • Node.js)</h3>  
 
-🚀 **Full Stack Developer** | PERN Stack (PostgreSQL • Express • React • Node.js)  
+
 💻 Turning ideas into scalable web applications  
 🎨 Passionate about clean code  
 ☕ Fueled by coffee, curiosity, and a love for coding  
@@ -8,10 +9,16 @@
 🌍 Open to collaborations, startups & exciting projects  
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=evgenycodes&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=evgenycodes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 
 ## 🛠️ Tech Stack  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,nodejs,express,postgres,docker,jest" />
+</p>
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
@@ -39,7 +46,10 @@
 
 ## 🚀 Codewars Stats  
 
-[![codewars](https://www.codewars.com/users/evgenycodes/badges/large)](https://www.codewars.com//users/evgenycodes) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evgenycodes&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenycodes&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
