@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
-## 🚀 Featured Projects  
+## 🚀 Codewars Stats  
 
 [![codewars](https://www.codewars.com/users/evgenycodes/badges/large)](https://www.codewars.com//users/evgenycodes) 
 
