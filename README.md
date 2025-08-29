@@ -8,6 +8,8 @@
 🌍 Open to collaborations, startups & exciting projects  
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=evgenycodes&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## 🛠️ Tech Stack  
 
