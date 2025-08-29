@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer** | PERN Stack (PostgreSQL • Express • React • Node.js)  
 💻 Turning ideas into scalable web applications  
-🎨 Passionate about clean code
+🎨 Passionate about clean code  
 ☕ Fueled by coffee, curiosity, and a love for coding  
 
 🌍 Open to collaborations, startups & exciting projects  
