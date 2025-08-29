@@ -22,22 +22,28 @@
 
 ## 🚀 Codewars Stats  
 
-![Codewars](https://github.r2v.ch/codewars?user=evgenycodes&stroke=%23BB432C)
-
+![Codewars](https://github.r2v.ch/codewars?user=evgenycodes&stroke=%23DD0000)  
 
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evgenycodes&show_icons=true&theme=radical" height="150" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evgenycodes&show_icons=true&theme=radical)  
 ---
 
 ## 📬 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgeny-shamov/)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/evgenys1)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:evgenyshamov.jobs@gmail.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/evgeny-shamov" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://t.me/evgenys1" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href="mailto:evgenyshamov.jobs@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
 
 ---
 
-✨ Let's build something amazing together!
+---
+<p align="center">✨ Let's build something amazing together! ✨</p>
+
