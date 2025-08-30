@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,nodejs,express,postgres,docker,jest" />
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,nodejs,express,postgres,docker,jest" />
 </p>
 
 ## 📊 GitHub Stats  
