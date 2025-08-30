@@ -40,7 +40,7 @@
   <a href="https://t.me/evgenys1"  target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
 </a>  
-  <a href="mailto:evgenyshamov.jobs@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
+  <a href="mailto:evgenyshamov.jobs@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>   
 </p>
 
 ---
