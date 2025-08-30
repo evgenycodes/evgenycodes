@@ -21,9 +21,8 @@
 </p>
 
 ## 🚀 Codewars Stats  
-<p>
-  <img src="https://github.r2v.ch/codewars?user=evgenycodes&stroke=%23DD0000" width="500" />
-</p>
+
+[![Codewars badge](https://www.codewars.com/users/evgenycodes/badges/large)](https://www.codewars.com/users/evgenycodes)
 
 ---
 
