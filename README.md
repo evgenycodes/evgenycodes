@@ -22,7 +22,10 @@
 
 ## 🚀 Codewars Stats  
 
-[![Codewars badge](https://www.codewars.com/users/evgenycodes/badges/large)](https://www.codewars.com/users/evgenycodes)
+<a href="https://www.codewars.com/users/evgenycodes">
+  <img src="https://www.codewars.com/users/evgenycodes/badges/large" width="500" />
+</a>
+
 
 ---
 
