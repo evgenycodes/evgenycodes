@@ -20,19 +20,21 @@
   <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,sass,nodejs,express,postgres,docker,jest" />
 </p>
 
+## 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=evgenycodes&show_icons=true&theme=radical" width="500" />  
+</p>
+
+
+
 ## 🚀 Codewars Stats  
 
 <a href="https://www.codewars.com/users/evgenycodes">
-  <img src="https://www.codewars.com/users/evgenycodes/badges/large" width="500" />
+  <img src="https://www.codewars.com/users/evgenycodes/badges/large" width="500" />  
 </a>
 
 
 ---
-
-## 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=evgenycodes&show_icons=true&theme=radical" width="500" />
-</p>
 
 
 ## 🤝 Connect with me  
